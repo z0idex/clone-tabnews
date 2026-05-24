@@ -1,5 +1,5 @@
 function Home(){
-  return <h1>To de olho em voce...Te amo!!!</h1>
+  return <h1>Olha o que eu fiz</h1>
 }
 
 export default Home;
